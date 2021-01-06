@@ -17,3 +17,5 @@ Your HTML web page musthave 3 sections:
 - a text display area
 
 <p align="justify">When you write some search terms in the search text area, say "Indian buffet", it will find the 10 bestrestaurants in the map area that match the search terms. They may be less than 10 (including zero)sometimes. The map will display the location of these restaurants as map overlay markers with labelsfrom 1 to 10. The text display area will display various information about these restaurants. It will be anordered list from 1 to 10 that correspond to the best 10 matches. Each list item in the display area willinclude the following information about the restaurant: the image "image_url", the "name" as a clickable"url" to the Yelp page of this restaurant, and the rating (a number between 1-5). When you search fornew terms, it will clear the display area and all the map overlay markers, and will create new ones based on the new search.</p>
+
+<img src="https://github.com/c-deshpande/yelp-maps-mashup/blob/main/img/demo.PNG" alt="demo"/>
